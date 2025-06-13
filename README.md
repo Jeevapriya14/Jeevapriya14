@@ -4,7 +4,7 @@
   ###     Chennai-600 023.
                                                                 
   #                                                                    OBJECTIVE:
-  ### Passionate Software Engineer with problem-solving skills in Python and specialized knowledge in MERN Stack for creating responsive, user-centered web applications. Highly skilled in teamwork and effective communication, ensuring smooth project execution and timely delivery of quality results.
+  ### Passionate Software Engineer with problem-solving skills in Python and specialized knowledge in MERN Stack and Java for creating responsive, user-centered web applications. Highly skilled in teamwork and effective communication, ensuring smooth project execution and timely delivery of quality results.
 # TABLE OF CONTENTS:
 1. [SKILLS](#Skills)
 2. [EDUCATION & TRAINING](#education--training)
@@ -15,14 +15,16 @@
 
 # SKILLS:
 ## Technical:                                                           
-- Python                                                            
-- HTML5
-- CSS3
-- JavaScript
-- ReactJS
-- MongoDB
-- NodeJS
-- ExpressJS
+- Java,JavaScript                                                           
+- Data structures and Algorithms.
+- React
+- REST APIs & Web Services
+- SQL & Databases
+- Object-Oriented Programming (OOP)
+- Spring Boot
+- MERN Full Stack
+- Debugging & Testing
+- Software Development Life Cycle
 - Knowledge of Git and Github
 ## Non-Technical:
 - Communication 
@@ -44,7 +46,7 @@
 # EXPERIENCE:
 
 ## Bluestock Fintech - Software Development Engineer Intern (Part-time, Remote)                 >01/2025- Present
-### I'm currently working as a SDE Intern at Bluestock Fintech.
+### Worked on backend development to implement and manage server-side logic.
 ## Redytable - Frontend developer Intern (Part-time, Remote)                                    >10/2024 - 11/2024
 ### Worked as a front-end developer, effectively completing assigned projects using HTML, CSS,React, Redux, and TypeScript technologies.
 ## Brainwave Matrix Solutions - Fullstack developer Intern                                      >09/2024
@@ -57,6 +59,26 @@
 ### Developed web applications using HTML, CSS, and JavaScript, utilizing version control systems to track source code changes throughout the development process.
 
 # ACTIVITIES & PROJECTS:
+## Learning Management System & CLI Task Manager  
+Developed Java-based Learning Management System and CLI Task Manager with CRUD operations using OOP, MVC, HashMap, and ArrayList. Focused on backend logic, modular design, debugging, and clean code practices.  
+
+**Reference:**  
+- [Learning Management System GitHub Repo](https://github.com/Jeevapriya14/Learning_Management_System)  
+- [Task Manager CLI GitHub Repo](https://github.com/Jeevapriya14/Task_Manager_CLI)  
+
+---
+
+## TuneUnity  
+Developed TuneUnity, a collaborative music-sharing web app enabling users to join virtual rooms via unique codes for real-time synchronized listening. Integrated YouTube API for in-chat song search, playback, and recommendations. Combined interactive group chat with seamless, shared music experiences to enhance social engagement.  
+
+**Live Demo:** [TuneUnity Web App](https://tuneunity.vercel.app/)  
+
+---
+
+## HotspotConnect  
+Built HotspotConnect, a web app that auto-connects users’ mobile hotspots using geolocation (latitude & longitude) to detect nearby devices. Enabled instant virtual connections within the same space, ideal for meetings, classrooms, and emergencies. Integrated a real-time chat interface for efficient information sharing without manual setup.  
+
+**Live Demo:** [HotspotConnect Web App](https://hotspotconnect.vercel.app/)  
 ### - Finalist in Gidy.ai MERN Hackathon's top 5 among 51 teams, developed a Student Development System to support students academically and personally.
 [Github Repository](https://github.com/Jeevapriya14/Students-Development-App)
 ### - I developed a Hospital Management System web application during my internship at NSIC.
